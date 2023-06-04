@@ -17,7 +17,7 @@ make run
 ```
 
 ## Clean
-Clean files and directories created　by `Build` and `Run`.  
+Clean files and directories created by `Build` and `Run`.  
 dir:src/
 ```
 make clean
