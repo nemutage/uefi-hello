@@ -1,2 +1,2 @@
 # uefi-hello
-Hello World on UEFI Application
+Hello World with UEFI Application.
