@@ -8,4 +8,3 @@ sudo mkdir -p mnt/EFI/BOOT
 sudo cp BOOTX64.EFI mnt/EFI/BOOT/BOOTX64.EFI
 sleep 0.5
 sudo umount mnt
-

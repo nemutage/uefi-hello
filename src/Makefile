@@ -15,4 +15,3 @@ clean:
 	rm -f BOOTX64.EFI
 	rm -f disk.img
 	rm -rf mnt
-	
